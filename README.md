@@ -13,3 +13,6 @@ Prior to v0.8.0, transforms in torchvision have traditionally been PIL-centric a
 . batched transformation such as for videos
 
 read and decode data directly as torch tensor with torchscript support (for PNG and JPEG image formats)
+
+
+<a href="www.google.com"> google.com</a>
