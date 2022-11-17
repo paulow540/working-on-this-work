@@ -1,5 +1,5 @@
 # working-on-this-work
-# Paul project
+## Paul project
 This example illustrates various features that are now supported by the image transformations on Tensor images. In particular, we show how image transforms can be performed on GPU, and how one can also script them using JIT compilation.
 
 Prior to v0.8.0, transforms in torchvision have traditionally been PIL-centric and presented multiple limitations due to that. Now, since v0.8.0, transforms implementations are Tensor and PIL compatible and we can achieve the following new features:
